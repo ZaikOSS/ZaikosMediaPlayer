@@ -7,14 +7,13 @@ ZaikosMediaPlayer is a lightweight media player application developed using the 
 - Supports a wide range of audio and video formats.
 - User-friendly interface built with .NET Framework.
 - Play, pause, and stop media playback.
-- Volume control and track navigation.
 
 ## Installation
 
 ### Prerequisites
 
 - No need for manual setup of dependencies, as the installer handles everything.
-- Ensure you have the required permissions to run `.exe` and `.msi` files on your system.
+- Ensure you have the required permissions to run `.msi` files on your system.
 
 ### Steps to Install:
 
@@ -41,9 +40,10 @@ ZaikosMediaPlayer is a lightweight media player application developed using the 
 Include screenshots of your application here to give users a visual of what it looks like.
 
 ![image](https://github.com/user-attachments/assets/4efee4a1-0a15-4df1-bb53-1860000b2915)
-![image](https://github.com/user-attachments/assets/5a1378dd-6658-4cea-9a8f-9cd02b890b3b)
-![Screenshot 2024-12-09 194042](https://github.com/user-attachments/assets/6449dcf1-8881-41db-bb45-b0c735d669c0)
 
+![image](https://github.com/user-attachments/assets/5a1378dd-6658-4cea-9a8f-9cd02b890b3b)
+
+![Screenshot 2024-12-09 194042](https://github.com/user-attachments/assets/6449dcf1-8881-41db-bb45-b0c735d669c0)
 
 
 
@@ -53,19 +53,7 @@ Include screenshots of your application here to give users a visual of what it l
 - **C#**: The primary programming language used for development.
 - **Visual Studio Code**: Used for code editing and development.
 
-## Contributing
 
-Feel free to fork the repository, create an issue, or submit a pull request if you want to contribute to the project.
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
