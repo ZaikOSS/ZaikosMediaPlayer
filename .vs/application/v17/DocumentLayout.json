@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual projects\\application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|D:\\visual projects\\application\\application\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|solutionrelative:application\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|D:\\visual projects\\application\\application\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|solutionrelative:application\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|C:\\Users\\Zakar\\Desktop\\kisspng-chinese-dragon-clip-art-snake-tattoo-5b1e302ceaaca1.2509425315287050689612.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|D:\\visual projects\\application\\application\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1713F281-41C3-42DE-ABDB-98CEFACC5592}|application\\application.vcxproj|solutionrelative:application\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\visual projects\\application\\application\\MyForm.h",
+              "RelativeDocumentMoniker": "application\\MyForm.h",
+              "ToolTip": "D:\\visual projects\\application\\application\\MyForm.h",
+              "RelativeToolTip": "application\\MyForm.h",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAAAAgCAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T22:00:25.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "D:\\visual projects\\application\\application\\MyForm.h",
+              "RelativeDocumentMoniker": "application\\MyForm.h",
+              "ToolTip": "D:\\visual projects\\application\\application\\MyForm.h [Design]",
+              "RelativeToolTip": "application\\MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T11:56:23.253Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kisspng-chinese-dragon-clip-art-snake-tattoo-5b1e302ceaaca1.2509425315287050689612.ico - Icon [256x197, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Zakar\\Desktop\\kisspng-chinese-dragon-clip-art-snake-tattoo-5b1e302ceaaca1.2509425315287050689612.ico",
+              "ToolTip": "C:\\Users\\Zakar\\Desktop\\kisspng-chinese-dragon-clip-art-snake-tattoo-5b1e302ceaaca1.2509425315287050689612.ico - Icon [256x197, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-13T17:28:30.851Z",
+              "EditorCaption": " - Icon [256x197, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\visual projects\\application\\application\\MyForm.cpp",
+              "RelativeDocumentMoniker": "application\\MyForm.cpp",
+              "ToolTip": "D:\\visual projects\\application\\application\\MyForm.cpp",
+              "RelativeToolTip": "application\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T21:01:35.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

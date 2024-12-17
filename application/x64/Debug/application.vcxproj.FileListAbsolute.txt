@@ -1,0 +1,4 @@
+D:\visual projects\application\application\x64\Debug\application.vcxproj.AssemblyReference.cache
+D:\visual projects\application\application\x64\Debug\application.vcxproj.ResolveComReference.cache
+D:\visual projects\application\application\x64\Debug\application.MyForm.resources
+D:\visual projects\application\application\x64\Debug\application.vcxproj.GenerateResource.cache
